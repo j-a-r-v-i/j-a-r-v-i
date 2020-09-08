@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Archit,Associate software engineer interested in field of Data science.I have knowledge of Data analysis,Machine learning,NLP.My current project includes describing the mental health by using conversation on social media with the help of NLP and Customer targeting with the help of RFM analysis.
 
 
 
